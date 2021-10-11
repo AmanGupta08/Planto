@@ -30,7 +30,7 @@ public class ForgetPassword extends HttpServlet {
 				//mail code
 				try {
 					final String SEmail="amanobccc@gmail.com";
-	                final String SPass="narwade.2810";
+	                final String SPass="naijie@6610";
 	                final String REmail=email;
 	                final String Sub="PlantO: Your Password is Here.";
 	                final String Body="Your User ID:"+email+"and Password: "+password;
